@@ -1,1 +1,0 @@
-Karena dapat mempermudah pengembangan program mengikuti model yang telah ada pada kehidupan sehari-hari, contohnya seperti struktur data dapat menjadi objek yang mencakup data dan funsi serta dapat membuat hubungan antara satu objek dengan objek lainnya.
